@@ -1,0 +1,12 @@
+.background_image{
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.nav_item_tranaparency_effects{
+    margin-top: -25px;
+    background-color: #4285f49c !important;
+    margin-left: 1vh;
+    margin-right: 1vh;
+}
+
